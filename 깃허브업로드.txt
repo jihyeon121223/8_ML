@@ -1,0 +1,24 @@
+등록된 계정 삭제
+---------------------
+cd e:
+cd code
+cd python_1
+git config --list
+git config --global user.name "깃허브아이디"
+git config --global user.email "깃허브이메일"
+git init
+ls
+ls -al
+--------------------홈피
+ML1
+create repository
+--------------------
+git status
+git add . #스테이지로 올리겠다
+git commit -m "메시지" #커밋완료
+(brunch는 메인이 설정이 안 되있을 때)
+git remote add origin 주소https://github.com/jihyeon121223/ML1.git 
+git push -u origin main
+-------------------홈피 새로고침
+
+--------------------이미 있고 업데이트할 때는 git clone
